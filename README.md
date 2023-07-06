@@ -1,6 +1,6 @@
 # ChgAPN
 
-Android app to change the APN data of the terminal.
+Is an APN editor for those smartphone who cant change their values.
 
 Made with Android Developer Tools (ADT) Eclipse Juno.
 
